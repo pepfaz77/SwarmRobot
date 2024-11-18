@@ -1,0 +1,1 @@
+The package contains the python script and the related MATLAB files to create simulation scenarios related to the article published on AEEE M. Mannone, P. Fazio, N. Marwan, A. Giacometti. Multi-Layer Networks and Routing Protocols for Aquatic Robotic Swarm Management. Advances in Electrical and Electronic Engineering, 22 (2), 2024, 10.15598/aeee.v22i2.5595
